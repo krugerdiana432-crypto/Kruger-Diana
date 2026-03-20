@@ -1,0 +1,5 @@
+{
+  "botName": "Kruger Diana 🤖✨",
+  "description": "Bot WhatsApp personnel de Diana 💖",
+  "port": 3000
+}
