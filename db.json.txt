@@ -1,0 +1,4 @@
+{
+  "prix": "10 000 FCFA",
+  "owner": "Kruger Diana 💖"
+}
