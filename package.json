@@ -1,0 +1,16 @@
+{
+  "name": "kruger-diana-bot",
+  "version": "1.0.0",
+  "description": "Bot WhatsApp personnel Kruger Diana 🤖✨",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Kruger Diana 💖",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "twilio": "^4.20.0",
+    "dotenv": "^16.4.0"
+  }
+}
